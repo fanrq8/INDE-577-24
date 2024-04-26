@@ -3,6 +3,12 @@
 
 The folder contained all parts of the final project created for the course. The course covers topics of supervised machine learning. The code is based on in-class examples, the textbook (Hands-on machine leanring with Scikit-Learn, and TensorFlow, 2nd edition by Aurélien Géron, and ChatGPT suggestion. 
 
+
+<p align="center">
+    <img src="voice_SLP.png" width="600">
+</p>
+
+
 As a Speech-Language Pathologist specialized in voice disorders, I have always been fascinated by the potential of voice both as part of one's identify and biomaker for physical health. Voice disorder occurs when an individual expresses concern about having an abnormal voice that does not meet daily needs—even if others do not perceive it as different or deviant (America American Speech-Language-Hearing Association [ASHA]). Subtle difference in voice help with early detection of neurological conditions through vocal analysis can significantly enhance patient care and treatment outcomes. With this in mind, my final project aims to harness the power of supervised machine learning to analyze voice data for early detection signs.
 
 ## Project Overview
